@@ -1,0 +1,29 @@
+.ordersTable th {
+    border-bottom: solid 2px grey;
+    padding: 10px 10px;
+}
+
+.ordersTable td {
+    border-bottom: solid 1px grey;
+    padding:10px 20px;
+}
+
+    .ordersTable tr:hover {
+        background-color: #EFF7FF;
+    }
+
+.odd {
+    background-color: #F5F5F5;
+}
+
+.even {
+    background-color: #F8F8F8;
+}
+
+.highlight {
+    background-color: #789764;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+}

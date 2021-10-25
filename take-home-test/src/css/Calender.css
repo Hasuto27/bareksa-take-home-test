@@ -1,0 +1,77 @@
+.CalenderBody {
+    padding:0px 40px;
+}
+
+.CalenderTable {
+    text-align: center;
+}
+
+    .CalenderTable thead {
+        color: #9C9C9C;
+    }
+
+    .CalenderTable th {
+        padding: 15px;
+        font-weight: normal;
+        border-bottom: solid 2px #E5E5E5;
+    }
+
+    .CalenderTable td {
+        padding: 12px;
+        font-weight:bold;
+    }
+
+.CalenderFoooter {
+    text-align: center;
+}
+
+    .CalenderFoooter button {
+        margin:5px 20px;
+    }
+
+    .CalenderFoooter button:hover {
+        opacity:.7;
+    }
+.CalenderHeader {
+    display:flex;
+    margin:30px 0px;
+    font-weight:bold;
+    font-size:16px;
+}
+
+.CalenderHeaderKiri {
+    text-align:center;
+    width:50%;
+}
+
+.CalenderHeaderKanan {
+    text-align: center;
+    width: 50%;
+}
+
+.tombolCancel {
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #E5E5E5;
+    font-weight: bold;
+}
+
+.tombolFilter {
+    padding: 10px 20px;
+    background-color: #82C341;
+    border-radius: 5px;
+    border: 1px solid #E5E5E5;
+    font-weight: bold;
+}
+
+.bolded {
+    background-color: #8772B0;
+    color:white;
+    border-radius:50%;
+}
+
+.boldedLine {
+    background-color: #E0DBEB;
+    color: black;
+}

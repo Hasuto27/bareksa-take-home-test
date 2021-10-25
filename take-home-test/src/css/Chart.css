@@ -1,0 +1,76 @@
+.conversionChart {
+    border:solid 2px;
+    border-color:lightgray;
+    border-radius:10px;
+}
+
+.chartsDetail {
+    width: 25%;
+    margin: 10px 10px;
+}
+
+.detailColor {
+    height:10px;
+    width:10px;
+    border-radius:50%;
+}
+
+.detail1 {
+    background-color: #725E9C;
+}
+
+.detail2 {
+    background-color: #5C8F94;
+}
+
+.detail3 {
+    background-color: #EBA45E;
+}
+
+.detail4 {
+    background-color: #E4EAEB;
+}
+
+.chartsFooter {
+    display:inline-flex;
+}
+
+.standartPieChart {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: conic-gradient(#725E9C 10.00% 30.00%, #5C8F94 30.00% 60.00%, #EBA45E 60.00% 70.00%, #E4EAEB 70.00% 100.00%);
+}
+
+.chartsHeader {
+    display:flex;
+}
+
+.chartsHeaderKiri {
+    width:50%;
+}
+
+.chartsHeaderKanan {
+    width: 50%;
+}
+
+.chartsHeaderKanan img:hover{
+    opacity:.5;
+}
+
+.chartsHeader h3{
+    margin-left:15px;
+}
+
+.standartPieChart {
+    margin:20px 52px;
+}
+
+.right {
+    float: right;
+    margin:15px 10px;
+}
+
+.chartsBody {
+    margin:auto;
+}
